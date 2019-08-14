@@ -100,6 +100,7 @@ exports[`Render should render component 1`] = `
       <a
         className="text-link empty-list-cta__pro-tip-link"
         href="http://docs.grafana.org/auth/enhanced_ldap/"
+        rel="noopener"
         target="_blank"
       >
         Learn more

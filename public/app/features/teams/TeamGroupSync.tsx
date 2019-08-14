@@ -131,6 +131,7 @@ export class TeamGroupSync extends PureComponent<Props, State> {
                 className="text-link empty-list-cta__pro-tip-link"
                 href="http://docs.grafana.org/auth/enhanced_ldap/"
                 target="_blank"
+                rel="noopener"
               >
                 Learn more
               </a>
